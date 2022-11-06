@@ -1,1 +1,1 @@
-# MNIST ConvNet Classifier
+# mnist-classifier-convnet
